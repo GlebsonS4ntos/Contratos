@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aPBsVxQNTlW7smxMv3GplnjnWEo+dUciCHU9Y8hRzejccAUKrDQelvZEKzUajm3Nuq+GsZlgcgB8dnW3iNIvRg==",
+  "success": true,
+  "projectFilePath": "E:\\ProjetosCast\\CsharpIntermediario\\App52\\App52.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\glebs\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
